@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bq+F6k18NkX1wSqUIY9sdS8O+/Re0XFv0mCSBLlTANE=",
+  "Source": "APIManagementService",
+  "BasePath": "_content/APIManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
